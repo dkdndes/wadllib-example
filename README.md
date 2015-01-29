@@ -30,6 +30,8 @@ Run example and enjoy the comments
 python example.py
 
 
+Examples from [bazaar.launchpad.net](http://bazaar.launchpad.net/~lazr-developers/wadllib/trunk/view/head:/src/wadllib/README.txt)
+
 Navigate HTTP resources using WADL files as guides.
 
 wadllib should work with Python >= 2.4.
