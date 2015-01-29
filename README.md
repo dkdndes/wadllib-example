@@ -24,6 +24,11 @@ cd wadllib-1.3.2
 python setup.py build
 python setup.py install 
 
+Run example and enjoy the comments
+---
+
+python example.py
+
 
 Navigate HTTP resources using WADL files as guides.
 
