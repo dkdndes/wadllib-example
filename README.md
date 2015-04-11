@@ -7,6 +7,7 @@ Activate virtualenv
 ---
 
 virtualenv env
+
 source env/bin/activate
 
 Install automatic
